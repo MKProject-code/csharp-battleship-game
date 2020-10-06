@@ -1,4 +1,4 @@
-# csharp-battleship-game
+# C# Battleship Game
 
 ### Code is tragical. Aplication writed only for presentation visual effect!
 ### Write time: 24h
