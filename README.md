@@ -1,7 +1,7 @@
 # csharp-battleship-game
 
 ## Code is tragical. Aplication writed only for presentation visual effect!
-## Write time: 24h
+### Write time: 24h
 
 VIDEO PRESENTATION:
 
