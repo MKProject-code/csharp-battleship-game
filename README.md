@@ -5,4 +5,4 @@
 
 ## VIDEO PRESENTATION:
 
-http://skyidea.pl/demo/video/csharp-battleship-game.mp4
+http://...pl/demo/video/csharp-battleship-game.mp4
